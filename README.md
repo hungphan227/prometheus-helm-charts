@@ -36,5 +36,7 @@ We'd love to have you contribute! Please refer to our [contribution guidelines](
 ## Note
 
 kube-prometheus-stack is the most important directory
+
 https://github.com/helm/charts/tree/master/stable/prometheus-operator is the old version of kube-prometheus-stack
+
 grafana.adminPassword is "prom-operator"
